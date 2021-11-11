@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Mis publicaciones sobre la docencia
+title: Mis publicaciones en el blog
 permalink: /blog
 toc: true
 ---

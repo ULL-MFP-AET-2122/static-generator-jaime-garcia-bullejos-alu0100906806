@@ -25,8 +25,16 @@
 <lastmod>2021-11-18T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/video_homenaje</loc>
+<lastmod>2021-11-19T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/docencia/procesos1</loc>
 <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/carta_despedida</loc>
+<lastmod>2021-11-20T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/docencia/procesos2</loc>

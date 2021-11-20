@@ -35,10 +35,22 @@ var store = [{
         "url": "/docencia/relaciones_tarea6",
         "teaser": null
       },{
+        "title": "video homenaje",
+        "excerpt":"Usando las siguientes preguntas como referencia realiza un video homenaje a un profesor que te haya marcado en algún momento de tu vida. ¿Qué caracterizaba a ese docente? ¿De qué manera te influyó personalmente? ¿Qué consecuencias tuvo en tu vida? ¿Ejerció una influencia en tu decisión de ser docente? ¿Por...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/video_homenaje",
+        "teaser": null
+      },{
         "title": "Hábitos saludables (Preguntas)",
         "excerpt":"Para trabajar el tema elegido (hábitos saludables) se le propondrán a los alumnos una serie de temas que veremos a continuación para que ellos redacten varias preguntas al respecto. Para facilitar el trabajo del alumno se usará una tabla con el principio de las preguntas posibles. Ya que la tecnología...","categories": ["docencia"],
         "tags": [],
         "url": "/docencia/procesos1",
+        "teaser": null
+      },{
+        "title": "Carta de despedida",
+        "excerpt":"Buenos días queridos alumnos, hoy en mi último día como docente, después de tantos años, me gustaría compartir varias cosas con vosotros. Lo primero, es que me siento orgulloso y realizado. He sido capaz de enseñar a más de mil alumnos. De los cuales, a muchos les apasionaba la tecnología...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/carta_despedida",
         "teaser": null
       },{
         "title": "Hábitos saludables (Currículo)",

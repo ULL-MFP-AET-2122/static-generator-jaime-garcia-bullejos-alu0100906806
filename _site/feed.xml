@@ -1,4 +1,221 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-11-18T18:58:02+00:00</updated><id>/feed.xml</id><title type="html">Aprendizaje</title><subtitle>An amazing website.</subtitle><author><name>Jaime</name></author><entry><title type="html">Latex</title><link href="/docencia/Latex" rel="alternate" type="text/html" title="Latex" /><published>2021-11-16T00:00:00+00:00</published><updated>2021-11-16T00:00:00+00:00</updated><id>/docencia/Latex</id><content type="html" xml:base="/docencia/Latex">&lt;p&gt;Hemos puesto  un codigo en layouts / default y ahora podemos usar formulas en toda la web.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-20T11:28:18+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aprendizaje</title><subtitle>An amazing website.</subtitle><author><name>Jaime</name></author><entry><title type="html">Hábitos saludables (Currículo)</title><link href="http://localhost:4000/docencia/procesos2" rel="alternate" type="text/html" title="Hábitos saludables (Currículo)" /><published>2021-11-20T00:00:00+00:00</published><updated>2021-11-20T00:00:00+00:00</updated><id>http://localhost:4000/docencia/procesos2</id><content type="html" xml:base="http://localhost:4000/docencia/procesos2">&lt;h1 id=&quot;la-preselección-de-los-contenidos-o-contraste-curricular&quot;&gt;La preselección de los contenidos o contraste curricular&lt;/h1&gt;
+
+&lt;p&gt;Con esta tarea vamos a explorar las posibilidades que nos ofrecen las cuestiones planteadas para trabajar determinados contenidos curriculares, por eso lo denominamos también «contraste curricular». Y hablamos de preselección porque es una primera aproximación cuya concreción definitiva dependerá principalmente de los conocimientos previos del alumnado ante cada aprendizaje y de las posibilidades reales de desarrollo del proyecto.&lt;/p&gt;
+
+&lt;p&gt;Para realizar esta tarea se ha organizado una reunión del departamento de tecnología y se ha realizado la siguiente lista a partir de las categorías y preguntas que se habían elegido previamente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I. Riesgos sobre la salud derivados de un mal uso de las tecnologías&lt;/strong&gt; (&lt;em&gt;Bloque VI: Internet, redes sociales, hiperconexión. Criterio de evaluación 9.&lt;/em&gt; Participar activamente en redes sociales y plataformas empleando el sentido crítico, criterios de seguridad y desarrollando hábitos adecuados en el uso e intercambio de la información; &lt;em&gt;Bloque II: Instalaciones en viviendas. Criterio de evaluación 4.&lt;/em&gt; Diseñar, simular y realizar montajes sencillos de las instalaciones básicas más comunes de una vivienda, describiendo los elementos que la componen y empleando la simbología normalizada en su diseño, aplicando criterios de eficiencia y ahorro energético).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;¿Qué lesiones físicas podemos sufrir?&lt;/td&gt;
+      &lt;td&gt;Identificación de riesgos y posibles lesiones físicas derivadas de un mal uso de herramientas de uso común.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;¿Qué problemas de vista podemos desarrollar?&lt;/td&gt;
+      &lt;td&gt;Problemas de vista agravados por el uso prolongado de pantallas digitales, como aumento de la miopía y fatiga ocular (ojo seco, visión borrosa, dolor de cabeza).&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;¿Qué problemas de audición podemos sufrir?&lt;/td&gt;
+      &lt;td&gt;Pérdida auditiva permanente derivada de un mal uso de auriculares, que deben siempre usarse a un nivel de volumen seguro.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;¿Qué son los dolores de espalda?&lt;/td&gt;
+      &lt;td&gt;Conocer los problemas derivados de adquirir malas posturas utilizando las TIC, como son la degeneración de la columna vertebral, la inflamación de los tendones o el atrapamiento de los nervios.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;¿Qué es una adicción?&lt;/td&gt;
+      &lt;td&gt;Tomar consciencia de las nuevas adicciones que se han derivado de nuestra mayor dependencia a las nuevas tecnologías.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;II. Buenos hábitos en el uso de la tecnología&lt;/strong&gt; (&lt;em&gt;Bloque I: Tecnologías de la información y de la comunicación. Criterio de evaluación 3.&lt;/em&gt; Elaborar programas informáticos sencillos, haciendo uso del ordenador, para resolver problemas aplicados a una situación tecnológica o a un prototipo).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;¿Qué significa sentarse bien? ¿Qué significa mantener una buena postura?&lt;/td&gt;
+      &lt;td&gt;Conocer una correcta higiene postural durante el uso de las TIC, así como pausas y ejercicios.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;¿Qué distancia debemos mantener con los monitores? ¿Cuánto tiempo debemos usar un monitor? ¿Qué son los descansos y para qué sirven?&lt;/td&gt;
+      &lt;td&gt;Saber cuál debe ser la posición correcta de un monitor.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;¿Qué es el manual de instrucciones?&lt;/td&gt;
+      &lt;td&gt;Familiarizarse con el contenido relativo al uso seguro de cualquier dispositivo en el manual de instrucciones.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;III. Equipos de protección individual (EPIs)&lt;/strong&gt; (&lt;em&gt;Bloque II: Instalaciones en viviendas. Criterio de evaluación 4.&lt;/em&gt; Diseñar, simular y realizar montajes sencillos de las instalaciones básicas más comunes de una vivienda, describiendo los elementos que la componen y empleando la simbología normalizada en su diseño, aplicando criterios de eficiencia y ahorro energético).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;¿Qué es y para qué sirven los cascos? ¿Qué son y para qué sirven los guantes? ¿Qué son las gafas de protección? ¿Qué es la ropa anticorte? ¿Qué son las mascarillas? ¿Qué son los filtros de pantalla?&lt;/td&gt;
+      &lt;td&gt;Identificación de los principales equipos de protección individual a emplear en los trabajos de construcción y montaje de instalaciones comunes en viviendas.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;las-competencias-básicas&quot;&gt;Las competencias básicas&lt;/h1&gt;
+
+&lt;p&gt;Las competencias que se trabajarán durante el desarrollo del proyecto serán:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Comunicación lingüística: se realizarán debates que permitan al alumnado asentar los conocimientos adquiridos y dar su punto de vista al respecto.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Plurilingüe: se visionarán varios videos en inglés que expliquen de una forma un poco más visual la importancia de los EPIs y las repercusiones de las adicciones.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Digital: a través de una práctica, el alumnado aprenderá como usar de forma segura, saludable, crítica y responsable las tecnologías digitales.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Personal, social y de aprender a aprender: durante la práctica, se dará pie a reflexionar sobre uno mismo y analizar la gestión del tiempo que se realiza a diario.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">La preselección de los contenidos o contraste curricular</summary></entry><entry><title type="html">Hábitos saludables (Preguntas)</title><link href="http://localhost:4000/docencia/procesos1" rel="alternate" type="text/html" title="Hábitos saludables (Preguntas)" /><published>2021-11-19T00:00:00+00:00</published><updated>2021-11-19T00:00:00+00:00</updated><id>http://localhost:4000/docencia/procesos1</id><content type="html" xml:base="http://localhost:4000/docencia/procesos1">&lt;p&gt;Para trabajar el tema elegido (hábitos saludables) se le propondrán a los alumnos una serie de temas que veremos a continuación para que ellos redacten varias preguntas al respecto. Para facilitar el trabajo del alumno se usará una tabla con el principio de las preguntas posibles. Ya que la tecnología resulta ser un poco específica se usará un proceso deductivo:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tema:&lt;/p&gt;
+
+    &lt;p&gt;a. Postura cuando estamos sentados&lt;/p&gt;
+
+    &lt;p&gt;b. Postura cuando hacemos esfuerzos&lt;/p&gt;
+
+    &lt;p&gt;c. Mal uso de las pantallas&lt;/p&gt;
+
+    &lt;p&gt;d. EPI (Equipo de protección individual)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Preguntas:&lt;/p&gt;
+
+    &lt;p&gt;a. Postura cuando estamos sentados&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ¿Qué sabemos? Que hay que sentarse recto
+
+ ¿Qué postura debería tener?
+
+ ¿Por qué no me puedo sentar como yo quiera?
+
+ ¿Cómo mantengo la postura todo el día?
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;b. Postura cuando hacemos esfuerzos&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ¿Qué sabemos? Que la espalda tiene que estar recta
+
+ ¿Qué tipo de esfuerzos?
+
+ ¿Por qué me tengo que poner de una forma concreta?
+
+ ¿Cómo evito hacerme daño?
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;c. Mal uso de las pantallas&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ¿Qué sabemos? Que cansan la vista
+    
+ ¿Qué efectos negativos tienen en la salud?
+
+ ¿Por qué nos hacen daño las pantallas?
+
+ ¿Cómo evito el cansancio visual?
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;d. EPI (Equipo de protección individual)&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ¿Qué sabemos? Que te protegen
+
+ ¿Qué son?
+
+ ¿Por qué se usan?
+    
+ ¿Cómo se usan?
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;En la reunión del departamento de tecnología hemos hecho una puesta en común de preguntas, obteniendo así el siguiente listado:&lt;/p&gt;
+
+    &lt;p&gt;a. ¿Qué son los EPI (casco, guantes, gafas de protección, ropa anticorte, mascarilla, filtros de pantalla, etc? ¿Por qué hay que usarlos? ¿Cómo se usan? ¿Cómo nos protegen?&lt;/p&gt;
+
+    &lt;p&gt;b. ¿Qué es sentarse bien? ¿Por qué debemos sentarnos bien? ¿Qué postura debemos tener? ¿Cómo se mantiene una postura correcta durante largos periodos de tiempo?&lt;/p&gt;
+
+    &lt;p&gt;c. ¿Qué factores debemos tener en cuenta a la hora de usar monitores? ¿Por qué hay que tenerlos en cuenta? ¿Cómo evitamos los efectos negativos?&lt;/p&gt;
+
+    &lt;p&gt;d. ¿Qué es el manual de instrucciones? ¿Por qué hay que leerlo?&lt;/p&gt;
+
+    &lt;p&gt;e. ¿Qué es una adicción? ¿Por qué ocurren? ¿Cómo se evitan?&lt;/p&gt;
+
+    &lt;p&gt;f. ¿Qué lesiones físicas podemos sufrir debido al mal uso de herramientas? ¿Por qué ocurren? ¿cómo podemos evitarlas?&lt;/p&gt;
+
+    &lt;p&gt;g. ¿Qué lesiones físicas podemos sufrir debido a malas posturas a la hora de hacer esfuerzos o trabajar? ¿Por qué ocurren? ¿cómo podemos evitarlas?&lt;/p&gt;
+
+    &lt;p&gt;h. ¿Qué lesiones físicas podemos sufrir debido al mal uso de las tic? ¿Por qué ocurren? ¿cómo podemos evitarlas?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">Para trabajar el tema elegido (hábitos saludables) se le propondrán a los alumnos una serie de temas que veremos a continuación para que ellos redacten varias preguntas al respecto. Para facilitar el trabajo del alumno se usará una tabla con el principio de las preguntas posibles. Ya que la tecnología resulta ser un poco específica se usará un proceso deductivo:</summary></entry><entry><title type="html">Estilos parentales</title><link href="http://localhost:4000/docencia/relaciones_tarea6" rel="alternate" type="text/html" title="Estilos parentales" /><published>2021-11-18T00:00:00+00:00</published><updated>2021-11-18T00:00:00+00:00</updated><id>http://localhost:4000/docencia/relaciones_tarea6</id><content type="html" xml:base="http://localhost:4000/docencia/relaciones_tarea6">&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;¿Qué estilo te parece más adecuado?&lt;/p&gt;
+
+    &lt;p&gt;Personalmente el estilo que me parece más adecuado es el democrático, ya que a pesar de tener un alto grado de exigencia , también se tiene un alto grado de responsabilidad. Por lo que a diferencia del autoritario el hijo va a sentir que puede debatir y exponer sus ideas con libertad. El sentirse escuchado y estar en un clima afectivo va a ayudar al hijo a tener unas características por lo general positivas, como por ejemplo: una alta autoestima, un autoconcepto realista, una buena motivación y autocontrol, etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;¿Es mejor seguir el mismo patrón de estilo o mezclar varios?&lt;/p&gt;
+
+    &lt;p&gt;En función de la edad del niño y la situación yo opino que es conveniente mezclar los estilos democrático, indulgente y autoritario, pero nunca el negligente. Por ejemplo, cuando los niños todavía son muy pequeños y no son capaces de debatir va a predominar el estilo autoritario, pero si el niño ya fuera algo mayor y estuviera en un ambiente controlado podría ser conveniente reducir un poco la exigencia y optar por un estilo más indulgente. Quitando casos como estos, creo que el estilo democrático debería ser el predominante.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;El medio o contexto en el que se vive, ¿puede influir en la educación?&lt;/p&gt;
+
+    &lt;p&gt;Sí, ya que en función del país en el que vivas el sistema educativo va a cambiar. Incluso dentro de España, en función del lugar, este puede variar, ya que las comunidades autónomas tienen cierta libertad a la hora de organizar este. Por otro lado, en función de la cultura de tu país, de los valores de tu familia, el barrio en el que vivas, tu situación económica, etc, la educación que recibas, sobre todo la informal,también variará.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;El medio y contexto en el que se vive, ¿puede influir en los Estilos parentales?&lt;/p&gt;
+
+    &lt;p&gt;Sí, ya que por cultura puede predominar más un estilo que otro. Por ejemplo, en los países asiáticos tiende a predominar un estilo más autoritario. Por otro lado, es habitual que los estilos se hereden de padres a hijos, ya que es la forma en la que te han enseñado a educar. En caso de que el hijo sienta un gran rechazo por la forma en la que fue educado puede haber un cambio en el estilo usado en su adultez. Por último, también se puede dar la situación de que la necesidad de pertenencia a un grupo sea tan grande que los padres apliquen un estilo similar al de su contexto social.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">¿Qué estilo te parece más adecuado?</summary></entry><entry><title type="html">¿Se puede considerar, según Esteve 2010, que el siguiente docmuental es educactivo?</title><link href="http://localhost:4000/docencia/relaciones_tarea3" rel="alternate" type="text/html" title="¿Se puede considerar, según Esteve 2010, que el siguiente docmuental es educactivo?" /><published>2021-11-17T00:00:00+00:00</published><updated>2021-11-17T00:00:00+00:00</updated><id>http://localhost:4000/docencia/relaciones_tarea3</id><content type="html" xml:base="http://localhost:4000/docencia/relaciones_tarea3">&lt;p&gt;&lt;a href=&quot;http://www.area-documental.com/player.php?titulo=Campamento%20Jesus&quot;&gt;Documental&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Para poder considerarlo educativo según esteve, este debe cumplir los siguientes cuatro criterios:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Criterio de contenido: dado que estamos hablando de un campamento religioso cuya función es adoctrinar a los niños en una creencia religiosa, no se puede considerar que lo aprendido sea moralmente irreprochable, por lo que no cumple este criterio.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Criterio de forma: para cumplir este criterio se debe respetar la libertad y dignidad de la persona, permitiendo la participación de la persona que aprende y respetando su opinión en caso de ser diferente. Durante el documental vemos claramente que esto no se cumple, por ejemplo:&lt;/p&gt;
+
+    &lt;p&gt;Cuando la madre que educa a su hijo en casa le habla sobre la ciencia. Esta no aporta varias opiniones para que el niño pueda reflexionar sobre ellas y formar la suya, sino que le fuerza a pensar que el creacionismo es la única explicación válida a todas las preguntas.&lt;/p&gt;
+
+    &lt;p&gt;En los discursos del campamento vemos como se les hace sentir mal por sus decisiones y se les enseña que si quieren salvar sus almas el único camino es servir a Dios todos los días de su vida. Estos discursos son magistrales y en ningún momento se permite el debate.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Criterio de uso: este criterio hace referencia a la comprensión de lo que se está aprendiendo. Desde mi punto de vista sí se cumple, ya que a pesar de que todos los conocimientos adquiridos están basados en una creencia. Los niños son capaces de razonar y formar sus propios esquemas conceptuales basándose en esta.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Criterio de equilibrio: para que este criterio se cumpla es necesario que haya un desarrollo equilibrado de todas las ramas necesarias para obtener una personalidad integrada en el alumno. Dado que en el documental vemos que la educación está íntegramente basada en Dios, podemos afirmar que este criterio no se cumple.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A pesar de no cumplir los criterios de Esteve, hay dos aspectos positivos a destacar:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;La directora del campamento comenta que para las nuevas generaciones es muy importante la vista y el odio ya que son muy visuales. Y es por esto que ella adapta su forma de enseñar. Para ello usa muchos juguetes y objetos que puedan llamar la atención y ayuden a grabar mejor el mensaje que se transmite.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Se le da mucha importancia a la comunicación. Durante el documental podemos ver como Levi da un discurso frente a una gran multitud y a pesar de su edad, adopta una postura segura, es capaz de transmitir el mensaje y emocionar al espectador.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">Documental</summary></entry><entry><title type="html">¿Qué es la educación?</title><link href="http://localhost:4000/docencia/relaciones_tarea1" rel="alternate" type="text/html" title="¿Qué es la educación?" /><published>2021-11-16T00:00:00+00:00</published><updated>2021-11-16T00:00:00+00:00</updated><id>http://localhost:4000/docencia/relaciones_tarea1</id><content type="html" xml:base="http://localhost:4000/docencia/relaciones_tarea1">&lt;p&gt;La educación como producto sería el resultado final, como por ejemplo: un título académico.&lt;/p&gt;
+
+&lt;p&gt;La educación como proceso serían todas las clases que uno va dando durante una formación concreta.&lt;/p&gt;
+
+&lt;p&gt;La educación como medio sería la forma de aprender algo para un fin que no es el de aprender simplemente, por ejemplo: aprender a tocar el piano para poder trabajar de pianista.&lt;/p&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">La educación como producto sería el resultado final, como por ejemplo: un título académico.</summary></entry><entry><title type="html">Latex</title><link href="http://localhost:4000/docencia/Latex" rel="alternate" type="text/html" title="Latex" /><published>2021-11-15T00:00:00+00:00</published><updated>2021-11-15T00:00:00+00:00</updated><id>http://localhost:4000/docencia/Latex</id><content type="html" xml:base="http://localhost:4000/docencia/Latex">&lt;p&gt;Hemos puesto  un codigo en layouts / default y ahora podemos usar formulas en toda la web.&lt;/p&gt;
 
 \[f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\]
 
@@ -66,7 +283,7 @@
     &lt;/td&gt;&lt;/tr&gt;
 
   
-&lt;/table&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">Hemos puesto un codigo en layouts / default y ahora podemos usar formulas en toda la web.</summary></entry><entry><title type="html">clase</title><link href="/docencia/clase2" rel="alternate" type="text/html" title="clase" /><published>2021-11-11T00:00:00+00:00</published><updated>2021-11-11T00:00:00+00:00</updated><id>/docencia/clase2</id><content type="html" xml:base="/docencia/clase2">&lt;p&gt;hola que tal&lt;/p&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">hola que tal</summary></entry><entry><title type="html">Yo</title><link href="/blog/yo" rel="alternate" type="text/html" title="Yo" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>/blog/yo</id><content type="html" xml:base="/blog/yo">&lt;h1 id=&quot;jaime-garcía-bullejos&quot;&gt;Jaime García Bullejos&lt;/h1&gt;
+&lt;/table&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">Hemos puesto un codigo en layouts / default y ahora podemos usar formulas en toda la web.</summary></entry><entry><title type="html">Yo</title><link href="http://localhost:4000/blog/yo" rel="alternate" type="text/html" title="Yo" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>http://localhost:4000/blog/yo</id><content type="html" xml:base="http://localhost:4000/blog/yo">&lt;h1 id=&quot;jaime-garcía-bullejos&quot;&gt;Jaime García Bullejos&lt;/h1&gt;
 
 &lt;h2 id=&quot;imagen&quot;&gt;Imagen&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;https://d7lju56vlbdri.cloudfront.net/var/ezwebin_site/storage/images/_aliases/img_1col/noticias/un-barco-inteligente-viajara-sin-tripulacion-entre-reino-unido-y-ee-uu/8179445-1-esl-MX/Un-barco-inteligente-viajara-sin-tripulacion-entre-Reino-Unido-y-EE-UU.jpg&quot; alt=&quot;&quot; /&gt;
@@ -82,20 +299,7 @@ As someone said:&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;em&gt;Linkedin:&lt;/em&gt;
-&lt;a href=&quot;https://es.linkedin.com/in/jaime-garc%C3%ADa-bullejos-923717142&quot;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lineas de código&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;addr&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fancyAlert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;facebox&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#foo&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;El número de alumnos es 20&lt;/p&gt;</content><author><name>Jaime</name></author><category term="blog" /><summary type="html">Jaime García Bullejos</summary></entry><entry><title type="html">Aprendiendo a usar un generador estático</title><link href="/docencia/clase" rel="alternate" type="text/html" title="Aprendiendo a usar un generador estático" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>/docencia/clase</id><content type="html" xml:base="/docencia/clase">&lt;h1 id=&quot;por-fin-es-jueves&quot;&gt;Por fin es jueves&lt;/h1&gt;
+&lt;a href=&quot;https://es.linkedin.com/in/jaime-garc%C3%ADa-bullejos-923717142&quot;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;</content><author><name>Jaime</name></author><category term="blog" /><summary type="html">Jaime García Bullejos</summary></entry><entry><title type="html">Aprendiendo a usar un generador estático</title><link href="http://localhost:4000/docencia/clase" rel="alternate" type="text/html" title="Aprendiendo a usar un generador estático" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>http://localhost:4000/docencia/clase</id><content type="html" xml:base="http://localhost:4000/docencia/clase">&lt;h1 id=&quot;por-fin-es-jueves&quot;&gt;Por fin es jueves&lt;/h1&gt;
 &lt;p&gt;vamos a ver si esto funciona&lt;/p&gt;
 
 &lt;p&gt;Y hoy por lo menos el cañon a funcionado …&lt;/p&gt;
@@ -119,4 +323,17 @@ As someone said:&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;Me gusta mucho comer fresas&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">Por fin es jueves vamos a ver si esto funciona</summary></entry></feed>
+&lt;/ol&gt;
+
+&lt;p&gt;El número de alumnos es 20&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lineas de código&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;addr&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fancyAlert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;facebox&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#foo&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Jaime</name></author><category term="docencia" /><summary type="html">Por fin es jueves vamos a ver si esto funciona</summary></entry></feed>
